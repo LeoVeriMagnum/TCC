@@ -1,0 +1,13 @@
+#header{
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid black;
+}
+.set1{
+    width: 33.333333333333%;
+    font-size: 1.5rem;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+}
